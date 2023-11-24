@@ -1,3 +1,5 @@
+// Maria Clara França, Rossana Rocha da Silva, Victor do Amaral
+
 package relogioCliente;
 
 import java.rmi.RemoteException;
